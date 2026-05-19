@@ -175,6 +175,10 @@ Any option above that does not contain a default is considered false or unset by
 
 The PID and LOG files are only used when run in `--daemon` mode.
 
+
+testing
+
+
 See the section for [Multiple Exporters](#multiple-exporters) for how to configure multiple exporters
 
 ### OTLP exporter configuration
